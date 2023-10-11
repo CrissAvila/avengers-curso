@@ -1,3 +1,4 @@
 # MISIONES
 
-*destrozar al torta martinez 
+* destrozar al torta martinez. 
+* dejar invalido al tortas martinez.
